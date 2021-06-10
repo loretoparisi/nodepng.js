@@ -5,7 +5,7 @@ Simple PNG encoder/decoder for Node.js with no native dependencies.
 Installation
 ===============
 ```
-$ npm install node-png 
+$ npm install nodepng.js
 ```
 
 Example
@@ -120,6 +120,10 @@ Gamma of image (0 if not specified)
 
 Changelog
 ============
+
+### 2.0.0- Jun 10 2021
+  - refactoring to support Node 10.x
+  - refacted `new Buffer` deprecation
 
 ### 0.4.0 - Jun 05 2013
   - fixed reading of destroyed input stream
