@@ -1,0 +1,40 @@
+{
+    "name": "nodepng.js",
+    "description": "Simple PNG encoder/decoder (upgraded to node 10.x)",
+    "version": "2.0.0",
+    "homepage": "https://github.com/loretoparisi/twitter-trends-api",
+    "author": {
+        "name": "Kuba Niegowski"
+    },
+    "contributors": [
+        {
+            "name": "Loreto Parisi",
+            "email": "loretoparisi@gmail.com"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:loretoparisi/twitter-trends-api"
+    },
+    "bugs": {
+        "url": "https://github.com/loretoparisi/twitter-trends-api/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/loretoparisi/twitter-trends-api/blob/main/LICENSE"
+        }
+    ],
+    "keywords": [
+        "png"
+    ],
+    "main": "lib/png.js",
+    "directories": {
+        "example": "examples"
+    },
+    "engines": {
+        "node": "*"
+    },
+    "devDependencies": {},
+    "dependencies": {}
+}
